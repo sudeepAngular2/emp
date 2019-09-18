@@ -1,0 +1,24 @@
+{
+  "name": "emp_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeepAngular2/emp.git"
+  },
+  "author": "sudeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudeepAngular2/emp/issues"
+  },
+  "homepage": "https://github.com/sudeepAngular2/emp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1"
+  }
+}
